@@ -25,7 +25,7 @@ Instead of just writing a simple script, I used Object-Oriented Programming (OOP
 
 ---
 
-### How to Run
+### How to run
 Make sure you have Python installed. Just download the files, open your terminal in that folder, and type:
 python main.py
 
